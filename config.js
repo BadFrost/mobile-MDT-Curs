@@ -1,0 +1,1 @@
+export const domain = '15936d59bef7';
