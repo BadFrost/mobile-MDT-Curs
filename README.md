@@ -2,7 +2,9 @@
 
 ### Установка
 Установить [Node.js](https://nodejs.org/ru/)
+
 Установить [Git](https://git-scm.com/)
+
 Установить [Yarn](https://yarnpkg.com/getting-started/install#global-install):
 ```sh
 npm install -g yarn
